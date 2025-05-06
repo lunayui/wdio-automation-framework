@@ -140,4 +140,3 @@ dist
 #WDIO specific
 allure-results
 debug
-node_modules
